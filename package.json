@@ -1,0 +1,23 @@
+{
+  "name": "food-app",
+  "version": "1.0.0",
+  "description": "This is food delievery app",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/iamrajkumar-dev/jrk-food-app.git"
+  },
+  "keywords": [
+    "cuisine",
+    "food"
+  ],
+  "author": "Rajkumar",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/iamrajkumar-dev/jrk-food-app/issues"
+  },
+  "homepage": "https://github.com/iamrajkumar-dev/jrk-food-app#readme"
+}
